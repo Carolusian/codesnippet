@@ -1,4 +1,4 @@
-# The CodeSnipp Project
+# The CodeSnippet Project
 
 ## Requirement #1
 
